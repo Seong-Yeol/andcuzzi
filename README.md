@@ -1,2 +1,2 @@
 # andcuzzi
-android study at noryangin
+android study at noryangjin
